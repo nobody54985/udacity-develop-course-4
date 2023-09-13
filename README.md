@@ -284,4 +284,4 @@ Provide variables for the collection (similarly to how this was done in the cour
 ![Alt text](images/import-collection-5.png?raw=true 'Image 5')
 
 // My git repo here
-https://github.com/nobody54985/udacity-developer-course-4.git
+https://github.com/nobody54985/udacity-develop-course-4.git
